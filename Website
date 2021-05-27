@@ -1,7 +1,9 @@
 <html>
+<head>Head
+</head>
   <body>
     <img src="P1.jpeg">
     <p>This is a cat
-    <p/>
+    </p>
   </body>
 </html>
